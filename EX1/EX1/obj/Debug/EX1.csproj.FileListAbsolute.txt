@@ -1,0 +1,10 @@
+D:\DatabaseTheworld\practice1\考題1\EX1\EX1\obj\Debug\EX1.csprojAssemblyReference.cache
+D:\DatabaseTheworld\practice1\考題1\EX1\EX1\obj\Debug\EX1.Properties.Resources.resources
+D:\DatabaseTheworld\practice1\考題1\EX1\EX1\obj\Debug\EX1.csproj.GenerateResource.cache
+D:\DatabaseTheworld\practice1\考題1\EX1\EX1\obj\Debug\EX1.csproj.CoreCompileInputs.cache
+D:\DatabaseTheworld\practice1\考題1\EX1\EX1\bin\Debug\EX1.exe.config
+D:\DatabaseTheworld\practice1\考題1\EX1\EX1\bin\Debug\EX1.exe
+D:\DatabaseTheworld\practice1\考題1\EX1\EX1\bin\Debug\EX1.pdb
+D:\DatabaseTheworld\practice1\考題1\EX1\EX1\obj\Debug\EX1.exe
+D:\DatabaseTheworld\practice1\考題1\EX1\EX1\obj\Debug\EX1.pdb
+D:\DatabaseTheworld\practice1\考題1\EX1\EX1\obj\Debug\EX1.Form.resources
